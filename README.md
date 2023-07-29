@@ -1,10 +1,10 @@
 THYROID DISEASE CLASSIFIER 
 
 Contributed By :
-Rohith Reddy Ganga
-Rahul GOTT
-Nikhil 
-Anirudh 
+Rohith Reddy Ganga,
+Rahul GOTT, 
+Nikhil, 
+Anirudh, 
 
 •	Tools: Python, Jupyter Notebook, Anaconda
 •	Libraries: Scikit Learn, Pandas, Matplotlib, and Seaborn.
